@@ -8,3 +8,4 @@
     - Material Theme UI 主题
     - WakaTime 代码统计
 4. 重启服务器
+5. 虚拟机push不了代码，虚拟机的代理服务打开 并设置127.0.0.1
